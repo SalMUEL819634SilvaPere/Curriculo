@@ -1,0 +1,152 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Lato', sans-serif;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+}
+#container {
+    background: #FEFEFA;
+    height: 1180px;
+    width: 800px;
+    margin: 0 auto;
+}
+
+body {
+
+    background-color: #0E0E0E;
+    
+
+}
+
+
+#esquerdo {
+
+    
+    float: left;
+    max-width: 280px;
+    padding: 30px;
+    background-color: #494E5F;
+    margin: 10px 0 10px 0;
+    height: 1100px ;
+}
+
+#esquerdo h4{
+
+    padding: 9px 0 9px 0 ;
+    color: #FFE7D4;
+    text-transform:  uppercase ;
+}
+
+#esquerdo h1{
+
+    color: #FFE7D4;
+}
+
+#esquerdo p, li{
+
+    color: #FEFEFA;
+}
+
+#info{
+
+    margin-bottom: 27px;
+    
+}
+
+#informações{
+
+    width: 100%;
+    margin-left: 10px;
+    margin-top: 50px;
+}
+
+#perfil-pessoal{
+
+    margin-top: 27px;
+    margin-bottom: 20px;
+    
+}
+
+#habilidades{
+
+    margin-top: 27px;
+    margin-bottom: 20px;
+
+
+}
+
+#contato{
+
+    margin-top: 27px;
+    margin-bottom: 20px;
+
+
+}
+
+img {
+    border-radius: 150px;
+    
+    display: block;
+    text-align: center;
+    width: 55%;
+    height: 55%;
+    
+    margin: auto;
+}
+
+
+/* Direita */
+
+#direito {
+
+    float: right;
+    width: 400px;
+    padding: 25px ;
+    margin-top: 35px ;    
+
+}
+
+#direito h3 {
+
+    background: #FFE7D4;
+    
+    text-transform: uppercase;
+    
+}
+
+#direito p {
+
+    font-size: 12px;
+}
+
+.cargo{
+
+    padding: 10px ;
+}
+
+.v{
+
+    margin-bottom: 65px;
+}
+
+.formacao{
+
+    padding: 10px  0 10px 0;
+}
+
+#educacional, #interesse, #profissional{
+
+    
+    width: 350px ;
+}
+
+#profissional{
+
+    margin-bottom: 140px;
+}
+#interesse{
+
+    margin-top: 140px;
+    
+}
